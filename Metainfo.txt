@@ -1,2 +1,8 @@
 Name of Quantlet: Bayesian_Statistics
 
+Description: This code performs Bayesian inference for a Bernoulli process by updating a uniform Beta(1,1) prior with observed data (1 success, 15 failures) to compute and visualize the prior, likelihood, and posterior Beta(2,16) distributions.
+
+Author: Rui Ren
+
+Submitted: 21.09.2024
+
